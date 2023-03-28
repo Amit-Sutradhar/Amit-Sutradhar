@@ -16,17 +16,19 @@
 
 <p align="left"> <a href="https://twitter.com/amit_sr_1" target="blank"><img src="https://img.shields.io/twitter/follow/amit_sr_1?logo=twitter&style=for-the-badge" alt="amit_sr_1" /></a> </p>
 
-- 🌱 I’m currently learning **TensorFlow/Flask**
+- 👨‍💻I am pursuing a B.tech degree in the field of Applied Electronics and Instrumentation.
+
+- 🌱I’m currently learning **TensorFlow/Flask**
 
 - 🤝I’m looking to collaborate on **A Deep Neural Network based approach for solving inverse kinematics problems for 3D OF robotic arm applications**
 
-- 💬 All of my projects are available at [https://github.com/Amit-Sutradhar](https://github.com/Amit-Sutradhar)
+- 💾All of my projects are available at [https://github.com/Amit-Sutradhar](https://github.com/Amit-Sutradhar)
 
-- 💬 Ask me about **Iot**
+- 💬Ask me about **Iot**
 
-- 📫 How to reach me **amitsutradhar253@gmail.om**
+- 📫How to reach me **amitsutradhar253@gmail.om**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14Z0fgKkzgYDAUj-LML3KNV0noyo87pv0/view?usp=share_link](https://drive.google.com/file/d/14Z0fgKkzgYDAUj-LML3KNV0noyo87pv0/view?usp=share_link)
+- 📄Know about my experiences [https://drive.google.com/file/d/14Z0fgKkzgYDAUj-LML3KNV0noyo87pv0/view?usp=share_link](https://drive.google.com/file/d/14Z0fgKkzgYDAUj-LML3KNV0noyo87pv0/view?usp=share_link)
 
 - ⚡ Fun fact **I'm a bit of a crazy when it comes to IoT! I absolutely love tinkering with sensors, devices, and networks to create cool and innovative solutions. Whether it's building smart homes or designing cutting-edge industrial automation systems, I'm always up for a new IoT challenge!**
 
