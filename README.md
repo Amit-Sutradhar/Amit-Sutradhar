@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Sutradhar</h1>
 <h3 align="center">Passionate about creating intelligent and efficient systems, Let's build the future together🤖</h3>
 
-<style>
-		/* Position the animation on the right side of the page */
-		#animation {
-			position: fixed;
-			top: 0;
-			right: 0;
-		}
-	</style>
+
 
 <img id="animation" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="My Animation" autoplay>
 
