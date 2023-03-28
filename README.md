@@ -2,10 +2,15 @@
 <h1 align="center">Hi 👋, I'm Amit Sutradhar</h1>
 <h3 align="center">Passionate about creating intelligent and efficient systems, Let's build the future together🤖</h3>
 
-<img src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3" align="right" alt="My GIF">
+
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="My GIF">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-sutradhar&label=Profile%20views&color=0e75b6&style=flat" alt="amit-sutradhar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-sutradhar" alt="amit-sutradhar" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/amit_sr_1" target="blank"><img src="https://img.shields.io/twitter/follow/amit_sr_1?logo=twitter&style=for-the-badge" alt="amit_sr_1" /></a> </p>
 
 - 🌱 I’m currently learning **TensorFlow/Flask**
 
