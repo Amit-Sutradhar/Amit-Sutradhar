@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Amit Sutradhar</h1>
 <h3 align="center">Passionate about creating intelligent and efficient systems, Let's build the future together🤖</h3>
 
+<style>
+		/* Position the animation on the right side of the page */
+		#animation {
+			position: fixed;
+			top: 0;
+			right: 0;
+		}
+	</style>
 
-<img src="http://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif" alt="My GIF">
+<img id="animation" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="My Animation" autoplay>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-sutradhar&label=Profile%20views&color=0e75b6&style=flat" alt="amit-sutradhar" /> </p>
