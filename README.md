@@ -2,8 +2,7 @@
 <h3 align="center">Passionate about creating intelligent and efficient systems, Let's build the future together🤖</h3>
 
 
-<img src="![image](https://user-images.githubusercontent.com/83871049/228356761-17d4b68a-a31f-4feb-8c6e-f8e8a6010b10.png)
-" alt="My GIF">
+<img src="http://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif" alt="My GIF">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-sutradhar&label=Profile%20views&color=0e75b6&style=flat" alt="amit-sutradhar" /> </p>
