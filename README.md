@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Amit-Sutradhar/Amit-sutradhar/blob/main/pexels-pixabay-270632.jpg)
 <h1 align="center">Hi 👋, I'm Amit Sutradhar</h1>
 <h3 align="center">Passionate about creating intelligent and efficient systems, Let's build the future together🤖</h3>
 
