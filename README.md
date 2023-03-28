@@ -1,6 +1,6 @@
 ![logo]()
 <h1 align="center">Hi 👋, I'm Amit Sutradhar</h1>
-<h3 align="center">Passionate about creating intelligent and efficient systems, Let's build the future together🤖</h3>
+<h3 align="center">Passionate about creating intelligent and efficient systems \n Let's build the future together🤖</h3>
 
 <img src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3" alt="My GIF" width="300" height="200" align="right">
 
