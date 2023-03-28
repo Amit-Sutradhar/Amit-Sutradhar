@@ -1,7 +1,11 @@
+<img src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w" alt="My GIF">
+
+
 <h1 align="center">Hi 👋, I'm Amit Sutradhar</h1>
 <h3 align="center">Passionate about creating intelligent and efficient systems <br> Let's build the future together🤖</h3>
 
 <img src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3" alt="My GIF" width="330" height="220" align="right">
+
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-sutradhar&label=Profile%20views&color=0e75b6&style=flat" alt="amit-sutradhar" /> </p>
