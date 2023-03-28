@@ -1,4 +1,4 @@
-
+<img src="https://user-images.githubusercontent.com/51192422/119933239-5ca6b080-bfa1-11eb-96c7-b6edb9da4778.png" alt="My GIF" width="330" height="220" align="right">  
 <h1 align="center">Hi 👋, I'm Amit Sutradhar</h1>
 <h3 align="center">Passionate about creating intelligent and efficient systems <br> Let's build the future together🤖</h3>
 
