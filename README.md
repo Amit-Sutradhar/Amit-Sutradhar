@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amit Sutradhar</h1>
 <h3 align="center">Passionate about creating intelligent and efficient systems <br> Let's build the future together🤖</h3>
 
-<img src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3" alt="My GIF" width="350" height="250" align="right">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3" alt="My GIF" width="350" height="220" align="right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-sutradhar&label=Profile%20views&color=0e75b6&style=flat" alt="amit-sutradhar" /> </p>
