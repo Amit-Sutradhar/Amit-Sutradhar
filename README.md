@@ -14,7 +14,7 @@ align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src
 
 
 
-align="left"> <a href="https://twitter.com/amit_sr_1" target="blank"><img src="https://img.shields.io/twitter/follow/amit_sr_1?logo=twitter&style=for-the-badge" alt="amit_sr_1" /></a>
+<p align="left"> <a href="https://twitter.com/amit_sr_1" target="blank"><img src="https://img.shields.io/twitter/follow/amit_sr_1?logo=twitter&style=for-the-badge" alt="amit_sr_1" /></a> </p>
 
 - 👨‍💻I am pursuing a B.tech degree in the field of Applied Electronics and Instrumentation.
 
